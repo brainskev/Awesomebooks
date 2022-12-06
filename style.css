@@ -6,6 +6,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 20px;
 }
 
 .bookDiv {
@@ -77,10 +78,6 @@ header {
   padding-left: 10px;
 }
 
-.navHeader {
-  font-size: 20px;
-}
-
 .navUl {
   padding-right: 10px;
   font-size: 14px;
@@ -105,7 +102,7 @@ header {
   width: 60px;
 }
 
-.contactDiv{
+.contactDiv {
   padding: 10vw;
   flex-direction: column;
   display: flex;
@@ -115,10 +112,10 @@ header {
 .copyright {
   border: 2px solid black;
   position: absolute;
-  
   width: 95vw;
   top: 92vh;
 }
+
 .copyright p {
   margin-left: 10px;
 }
